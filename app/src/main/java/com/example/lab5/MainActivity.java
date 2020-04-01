@@ -11,7 +11,7 @@ import android.widget.EditText;
 public class MainActivity extends AppCompatActivity {
     public static String IP="ip";
     public static String NICK="nick";
-    
+
     private EditText ipEditText;
     private EditText nickEditText;
     private Button connectButton;
